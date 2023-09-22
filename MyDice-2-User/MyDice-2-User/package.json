@@ -1,0 +1,24 @@
+{
+  "name": "mydice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyberCitizen01/MyDice.git"
+  },
+  "author": "Mohammad Rafivulla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CyberCitizen01/MyDice/issues"
+  },
+  "homepage": "https://github.com/CyberCitizen01/MyDice#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.1.1"
+  }
+}
